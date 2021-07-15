@@ -1,7 +1,12 @@
 # PROJETO CRIADO EM CONJUNTO COM A LEST CODE PARA O DESENVOLVIMENTO DO PROGRAMA BECAS ( SANTANDER UNIVERSITARIO),
 # para a conclusão da segunda fase do processo seletivo.
 # CURSO: DATA SCIENCE
-#
+
+#   Dev. Cristiano Freitas
+#   email: junior.brown.eda@gmail.com
+#   Data de inicio do projeto: 12/07/2021
+#   Data de "Final" do projeto: 15/05/2021
+
 
 
 
